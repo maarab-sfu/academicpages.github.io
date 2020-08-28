@@ -6,7 +6,7 @@ venue: "Testing Studies"
 excerpt: 'This paper is about testing.'
 date: 2009-10-01
 paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Mohammad Amin Arab, Kiana Calagari, and Mohamed Hefeeda. 2019. Band and Quality Selection for Efficient Transmission of Hyperspectral Images. In <i>Proceedings of the 27th ACM International Conference on Multimedia</i> (<i>MM '19</i>). Association for Computing Machinery, New York, NY, USA, 2423–2430.'
+citation: 'Mohammad Amin Arab, Kiana Calagari, and Mohamed Hefeeda'
 ---
 
 ## Abstract
