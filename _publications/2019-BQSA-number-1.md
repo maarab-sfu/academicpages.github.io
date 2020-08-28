@@ -6,7 +6,7 @@ venue: "ACM Multimedia"
 excerpt: 'This paper presents a method to prioritize the transmission of various components of hyperspectral data based on the application needs, the level of details required, and available bandwidth.'
 date: 2019-10-15
 paperurl: https://dl.acm.org/doi/10.1145/3343031.3351047
-citation: 'M. Arab, K. Calagari, and M. Hefeeda. 2019. Band and Quality Selection for Efficient Transmission of Hyperspectral Images. In <i>Proceedings of the 27th ACM International Conference on Multimedia</i> (<i>MM '19</i>).'
+citation: 'M. Arab, K. Calagari, and M. Hefeeda. 2019. Band and Quality Selection for Efficient Transmission of Hyperspectral Images. In <i>Proceedings of the 27th ACM International Conference on Multimedia</i> <i>MM '19</i>.'
 ---
 
 ## Abstract
