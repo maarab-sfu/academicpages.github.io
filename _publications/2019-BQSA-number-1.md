@@ -1,29 +1,13 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Band and Quality Selection for Efficient Transmission of Hyperspectral Images"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
-venue: "Testing Studies"
-excerpt: 'This paper is about testing.'
-date: 2009-10-01
-paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+permalink: /publications/2019-BQSA-number-1
+venue: "ACM Multimedia"
+excerpt: 'This paper present a method to prioritize the transmission of various components of hyperspectral data based on the application needs, the level of details required, and available bandwidth.'
+date: 2019-10-15
+paperurl: https://dl.acm.org/doi/10.1145/3343031.3351047
+citation: 'Mohammad Amin Arab, Kiana Calagari, and Mohamed Hefeeda. 2019. Band and Quality Selection for Efficient Transmission of Hyperspectral Images. <i>In Proceedings of the 27th ACM International Conference on Multimedia (MM '19). Association for Computing Machinery, New York, NY, USA</i>, 2423–2430. DOI:https://doi.org/10.1145/3343031.3351047'
 ---
 
 ## Abstract
-You can put the full text of the paper in this markdown file. The journal, date, citation, and paperurl will populate automatically based on the YAML variables, and then the text below (this text) will be displayed.
-
-## Introduction
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
-## Methods
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Results
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Conclusion 
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## References
+Due to recent technological advances in capturing and processing devices, hyperspectral imaging is becoming available for many commercial and military applications such as remote sensing, surveillance, and forest fire detection. Hyperspectral cameras provide rich information, as they capture each pixel along many frequency bands in the spectrum. The large volume of hyperspectral images as well as their high dimensionality make transmitting them over limited-bandwidth channels a challenge. To address this challenge, we present a method to prioritize the transmission of various components of hyperspectral data based on the application needs, the level of details required, and available bandwidth. This is unlike current works that mostly assume offline processing and the availability of all data beforehand. Our method jointly and optimally selects the spectral bands and their qualities to maximize the utility of the transmitted data. It also enables progressive transmission of hyperspectral data, in which approximate results are obtained with small amount of data and can be refined with additional data. This is a desirable feature for large-scale hyperspectral imaging applications. We have implemented the proposed method and compared it against the state-of-the-art in the literature using hyperspectral imaging datasets. Our experimental results show that the proposed method achieves high accuracy, transmits a small fraction of the hyperspectral data, and significantly outperforms the state-of-the-art; up to 35% improvements in accuracy was achieved.
