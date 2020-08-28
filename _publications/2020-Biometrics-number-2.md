@@ -3,7 +3,7 @@ title: "Revealing True Identity: Detecting Makeup Attacks in Face-based Biometri
 collection: publications
 permalink: /publications/2020-Biometrics-number-2
 venue: "ACM Multimedia"
-excerpt: 'This paper presents a method to prioritize the transmission of various components of hyperspectral data based on the application needs, the level of details required, and available bandwidth.'
+excerpt: 'This paper proposes a novel solution to address makeup attacks, which are the hardest to detect in such systems because makeup can substantially alter the facial features of a person, including making them appear older/younger by adding/hiding wrinkles, modifying the shape of eyebrows, beard, and moustache, and changing the color of lips and cheeks.'
 date: 2020-10-15
 paperurl: https://dl.acm.org/doi/10.1145/3343031.3351047
 citation: 'M. Arab, et al. 2020. Revealing True Identity: Detecting Makeup Attacks in Face-based Biometric Systems. In Proceedings of the 28th ACM International Conference on Multimedia. '
