@@ -1,9 +1,9 @@
 ---
 title: "Band and Quality Selection for Efficient Transmission of Hyperspectral Images"
 collection: publications
-permalink: /publications/2019-BQSA-number-1
+permalink: /publications/2009-10-01-test-accts-intro
 venue: "ACM Multimedia"
-excerpt: 'This paper present a method to prioritize the transmission of various components of hyperspectral data based on the application needs, the level of details required, and available bandwidth.'
+excerpt: 'This paper presents a method to prioritize the transmission of various components of hyperspectral data based on the application needs, the level of details required, and available bandwidth.'
 date: 2019-10-15
 paperurl: https://dl.acm.org/doi/10.1145/3343031.3351047
 citation: 'Mohammad Amin Arab, Kiana Calagari, and Mohamed Hefeeda. 2019. Band and Quality Selection for Efficient Transmission of Hyperspectral Images. <i>In Proceedings of the 27th ACM International Conference on Multimedia (MM '19). Association for Computing Machinery, New York, NY, USA</i>, 2423–2430. DOI:https://doi.org/10.1145/3343031.3351047'
