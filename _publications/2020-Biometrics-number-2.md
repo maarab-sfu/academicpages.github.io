@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2020-Biometrics-number-2
 venue: "ACM Multimedia"
 excerpt: 'This paper presents a method to prioritize the transmission of various components of hyperspectral data based on the application needs, the level of details required, and available bandwidth.'
-date: 2019-10-15
+date: 2020-10-15
 paperurl: https://dl.acm.org/doi/10.1145/3343031.3351047
 citation: 'M. Arab, et al. 2020. Revealing True Identity: Detecting Makeup Attacks in Face-based Biometric Systems. In Proceedings of the 28th ACM International Conference on Multimedia. '
 ---
